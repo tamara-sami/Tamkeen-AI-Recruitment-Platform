@@ -1,0 +1,21 @@
+# Local configuration / secrets
+config.php
+private-config/gemini-key.php
+.env
+.env.*
+!.env.example
+
+# Local IDE files
+.vscode/
+.idea/
+
+# User-generated uploads / personal files
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local logs / temp files
+*.log
+*.tmp
